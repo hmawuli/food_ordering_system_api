@@ -11,4 +11,6 @@ class Table_Customer extends Model
 
     protected $table = "table_customer";
     protected $fillable = ['id', 'name', 'contact_number', 'address'];
+    
 }
+
